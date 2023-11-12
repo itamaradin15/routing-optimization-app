@@ -1,6 +1,3 @@
-Por supuesto, aquí tienes el README en formato Markdown para que puedas copiarlo y pegarlo directamente en tu archivo README.md:
-
-```markdown
 # Routing Optimization App
 
 This application, built using React and Next.js, integrates Leaflet mapping to provide route optimization capabilities. It's designed to allow users to input a set of coordinates and generate an optimized route, ideal for logistics planning and efficient route finding.
@@ -32,13 +29,6 @@ This application, built using React and Next.js, integrates Leaflet mapping to p
 
 Ensure you have a Valhalla routing engine server running and accessible. For more information on setting up Valhalla, visit [Valhalla's documentation](https://github.com/valhalla/valhalla).
 
-### Use the Template with create-next-app
-
-To create a new project based on this template using `create-next-app`, run:
-
-```bash
-npx create-next-app -e https://github.com/nextui-org/next-app-template
-```
 
 ### Install Dependencies
 
